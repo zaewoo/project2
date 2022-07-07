@@ -1,9 +1,10 @@
-## 개요
+## Requirements
 
-### 주제
-- 두 오디오 파일을 비교하여 유사점과 차이점을 확인할 수 있습니다.
+In order to implement these classes, you will need the following packages installed in your environment:
 
-### 결과
-- 결과에 대해 서술하여 주세요.
-
-## 서론
+* `numpy` 
+* `pandas`
+* `matplotlib`
+* `seaborn`
+* `scipy`
+* `librosa`
